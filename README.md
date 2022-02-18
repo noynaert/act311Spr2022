@@ -5,19 +5,16 @@
 The major project for this semester involves generating an alternative scheduling web page for MWSU course search.
 ## General outline
 
-1. Git and Github
-2. Node and NPM  
-3. Creating web pages.  Maybe set up a campus server.
-4. JavaScript objects in Node
+1. Git and Github, Node and NPM  
+
+1. JavaScript objects in Node
    * Generating json
    * Reading from an api with Promises
-5. Web Scraping
-6. Recovering and parsing the schedule
-7. Creating a basic API
-8. Refining and testing the API
-9. Design the user interface we are after.  What fields may the user request?
-10. Modify the api to handle queries
-11. Bootcamp & Bootcamp grids
-12. Move to the front-end.  Start the Angular project. Interface the project with the api
-13. Develop the output
-14. Refine the output
+1. Web Scraping
+1. Display the data in a simple interface (Naybe use Angular or the method used in the Ninja Java tutorial)
+1. Design the user interface we are after.  What fields may the user request?
+1. Modify the api to handle queries
+1. Bootcamp & Bootcamp grids
+1. Move to the front-end.  Interface the project with the api
+1. Refine the interface
+1. Prep some type of presentation
